@@ -43,7 +43,7 @@ int mainMenu() {
     setConsoleColor(10);
     setConsoleFontSize(18);
 
-    std::cout << "\n====== Main Menu ======\n";
+    std::cout << "\n===== Main Menu ======\n";
     std::cout << "1. Task Scheduler\n";
     std::cout << "2. Task Automator\n";
     std::cout << "3. Exit\n";
