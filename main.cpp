@@ -46,8 +46,7 @@ int mainMenu() {
     std::cout << "\n===== Main Menu ======\n";
     std::cout << "1. Task Scheduler\n";
     std::cout << "2. Task Automator\n";
-    std::cout << "3. Exit\n";
-    std::cout << "Enter your choice (1-3): ";
+
 
     int choice;
     std::cin >> choice;
